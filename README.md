@@ -2,7 +2,7 @@
 
 ## Overview
 
-**South Dakota Smith and the Temple of Doom** is an action-adventure game built in C++ in which the player navigates through a multi-level temple represented by an 18x70 grid with ASCII characters, using weapons and scrolls to fight monsters and find the golden idol 
+This is an implementation of a video game that I fully built during my CS32 course at UCLA in spring 2024. **South Dakota Smith and the Temple of Doom** is an action-adventure game built in C++ in which the player navigates through a multi-level temple represented by an 18x70 grid with ASCII characters, using weapons and scrolls to fight monsters and find the golden idol. 
 
 ## Game Description
 
@@ -72,7 +72,3 @@ In this game, you play as an adventurer navigating a 5-level temple in search of
 
 - **Quit Game:**  
   Press `q` to quit the game.
-
-## License
-
-This game was developed for educational purposes and is provided as-is without any warranty.
